@@ -1,0 +1,69 @@
+# =========================================
+# Python & Jupyter Notebook
+# =========================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment folders
+.env
+.venv
+env/
+venv/
+
+# VSCode settings
+.vscode/
+
+# IDE settings
+.idea/
+
+# =========================================
+# Data files and models
+# =========================================
+
+# Large data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.zip
+*.tar
+*.gz
+
+# Machine learning model files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.sav
+
+# =========================================
+# Logs and temp files
+# =========================================
+
+*.log
+*.tmp
+*.bak
+
+# =========================================
+# OS files
+# =========================================
+
+# macOS
+.DS_Store
+
+# Linux / Ubuntu
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
